@@ -1,5 +1,5 @@
 # spa-angularjs
 
-Based on Article
+Based on article
 
 http://tableless.com.br/criando-uma-aplicacao-single-page-com-angularjs/
